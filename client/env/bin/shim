@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH='/home/youngcoder/Downloads/Diabetestracker/DiabetesTracker/client/env/lib/node_modules'
+export NPM_CONFIG_PREFIX='/home/youngcoder/Downloads/Diabetestracker/DiabetesTracker/client/env'
+export npm_config_prefix='/home/youngcoder/Downloads/Diabetestracker/DiabetesTracker/client/env'
+exec 'env/bin/node' "$@"

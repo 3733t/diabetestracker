@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "UWTSD-1",
+			"path": "../../../../hostproject/UWTSD-1"
+		},
+		{
+			"name": "UWTSD1",
+			"path": "../../../../hostproject/UWTSD2/UWTSD1"
+		}
+	],
+	"settings": {}
+}
